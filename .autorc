@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "purin475",
+  "repo": "container-vpv5so",
+  "name": "purin475",
+  "email": "alexanderlam128@gmail.com",
+}
